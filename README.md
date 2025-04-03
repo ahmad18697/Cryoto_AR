@@ -1,10 +1,14 @@
+
+---
+title: "🚀 Crypto AR – Real-Time Cryptocurrency Tracker 🌐💰"
+description: "A sleek and intuitive platform for tracking real-time cryptocurrency prices, market trends, and more."
 ---
 
-title: "🚀 Crypto AR – Real-Time Cryptocurrency Tracker 🌐💰"
+# 🚀 Crypto AR – Real-Time Cryptocurrency Tracker 🌐💰  
 
 **Crypto AR** is a sleek and intuitive platform for tracking real-time cryptocurrency prices, market trends, and more. Built with modern web technologies, it offers a seamless experience for crypto enthusiasts.  
 
-🔗 **Live Demo:** [Crypto AR](https://cryoto-ar-git-main-ahmadraza993432-gmailcoms-projects.vercel.app/)  
+🔗 **Live Demo:** [Crypto AR](https://crypto-ar-git-main-ahmadraza993432-gmailcoms-projects.vercel.app/)  
 
 ---
 
@@ -40,19 +44,16 @@ Ensure you have the following installed:
 1. Install dependencies:  
    ```bash
    npm install
-   ```  
-2. Start the development server:  
+   ```
+2. Start the development server:
    ```bash
    npm run dev
-   ```  
-
+   ```
 
 ---
 
 ## 🌍 Deployment  
+Crypto AR is deployed on Vercel for high-performance hosting.  
 
-Crypto AR is deployed on **Vercel** for high-performance hosting.  
-
-🔗 **Live Version:** [Crypto AR](https://cryoto-ar-git-main-ahmadraza993432-gmailcoms-projects.vercel.app/)  
-
----
+🔗 **Live Version:** [Crypto AR](https://crypto-ar-git-main-ahmadraza993432-gmailcoms-projects.vercel.app/)
+```
