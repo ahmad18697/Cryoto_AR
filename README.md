@@ -1,6 +1,6 @@
 ---
 
-# 🚀 Crypto AR – Real-Time Cryptocurrency Tracker 🌐💰  
+title: "🚀 Crypto AR – Real-Time Cryptocurrency Tracker 🌐💰"
 
 **Crypto AR** is a sleek and intuitive platform for tracking real-time cryptocurrency prices, market trends, and more. Built with modern web technologies, it offers a seamless experience for crypto enthusiasts.  
 
